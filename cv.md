@@ -4,7 +4,7 @@
 ### Contacts
  
 * email:    unclekoin@gmail.com
-* telegram: t.me/pavel_koryakin
+* telegram: [@pavel_koryakin](https://t.me/pavel_koryakin)
 
 ### About me
 
