@@ -1,5 +1,6 @@
 ## Pavel Koryakin
 
+<img src="https://avatars3.githubusercontent.com/u/47181578?s=400&amp;u=c73a2738261e037755c480aa397a2a89d500f5c3&amp;v=4" alt="Pavel's Photo" width="300">
 
 ### Contacts
  
