@@ -26,3 +26,17 @@ GIT, Webpack, BEM, Figma
 MySQL, MongoDB
 ### Platform
 Windows, MacOS, Linux
+## Code Examples
+* https://github.com/unclekoin/react-node-blog-app
+* https://github.com/unclekoin/fast-company
+* https://github.com/unclekoin/react-hackathon-team-website
+* https://github.com/unclekoin/node-weather-app
+* https://github.com/unclekoin/portfolio
+
+## Education
+* Rollin Scopes School
+* Result School
+* Udemy
+
+## English
+B1
